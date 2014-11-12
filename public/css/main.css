@@ -1,0 +1,8 @@
+/*Estas son clases para la alerta de cliente2.html*/
+.open-alert{
+	width: 90%;
+	margin: 1em auto;
+}
+.close-alert{
+	display: none;
+}
